@@ -73,6 +73,10 @@ These are some important key terms that I have learnt new as well as worked on i
 
 **OUTPUT** : 
 
+BUCKET IN AWS S3 : ![cloud_bucket](https://github.com/user-attachments/assets/8f066428-a484-4375-8db1-aa21fa059790)
+UPLOADED FILES   : ![cloud_upload](https://github.com/user-attachments/assets/8e24f0f3-9d1e-4dd7-8a8b-72dfcb076edc)
+PERMISSION CONFIGURED : ![cloud_permission](https://github.com/user-attachments/assets/5a1e42cc-d257-4889-8b03-320438fe2660)
+
 
 
 
